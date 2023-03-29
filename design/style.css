@@ -1,0 +1,17 @@
+.product-name, .price-now{
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+}
+
+.product-title, .product-description {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.product-title {
+    color: rgba(182, 179, 179, 0.959);
+}
+
+.product-description{
+    font-size: 14px;
+}
